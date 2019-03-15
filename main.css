@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Arvo");
+
+body {
+  text-align: center;
+  font-family: "Arvo", serif;
+}
+
+body {
+  width: 90%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
